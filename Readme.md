@@ -1,6 +1,6 @@
 # 🚀 Frontend Development Internship – CodeAlpha
 
-This repository contains the projects I developed during my Frontend Development Internship at CodeAlpha. Each project helped me strengthen my skills in HTML, CSS, JavaScript, and React (where applicable).
+This repository contains the projects I developed during my Frontend Development Internship at CodeAlpha. Each project helped me strengthen my skills in HTML, CSS, JavaScript.
 
 # 📂 Projects
 
