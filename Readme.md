@@ -1,31 +1,31 @@
-### 🚀 Frontend Development Internship – CodeAlpha
+# 🚀 Frontend Development Internship – CodeAlpha
 
 This repository contains the projects I developed during my Frontend Development Internship at CodeAlpha. Each project helped me strengthen my skills in HTML, CSS, JavaScript, and React (where applicable).
 
-### 📂 Projects
+# 📂 Projects
 
 ## 🖼️ Image Gallery
 
 Built a responsive image gallery using HTML, CSS, and JavaScript.
 
-# Live Demo:
+### Live Demo:
 https://imagegallery-jet.vercel.app/
 
 ## 🧮 Simple Calculator
 
 A functional calculator built with HTML, CSS, and JavaScript.
 
-# Features: 
+### Features: 
 Basic arithmetic operations with responsive design.
 
-# Live Demo:
+### Live Demo:
 https://code-alpha-frontend-development-int-one.vercel.app/
 
 ## 🌐 Personal Portfolio
 
 A personal portfolio website showcasing my skills and projects.
 
-# Features: 
+### Features: 
 Responsive design, smooth scrolling, and modern UI.
 
 # Live Demo:
@@ -33,10 +33,10 @@ https://code-alpha-frontend-development-int-chi.vercel.app/
 
 ## 🛠️ Tech Stack
 
-# Languages: 
+### Languages: 
 HTML, CSS, JavaScript
 
-### 📖 Learning Outcomes
+# 📖 Learning Outcomes
 
 Improved frontend development skills
 
@@ -46,10 +46,10 @@ Understood the importance of responsive design
 
 Gained hands-on experience with GitHub project management
 
-### 📬 Contact
+# 📬 Contact
 
 ## 👩‍💻 Aashra Saleem
 
-**GitHub:** Aashra55
+**GitHub:** *Aashra55*
 
-**LinkedIn:** Aashra Saleem
+**LinkedIn:** *Aashra Saleem*
