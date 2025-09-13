@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 70%;
+    height: 92%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2%; 
+    background-color: #ecf0f3;
+    border-radius: 20px;
+    box-shadow: -3px -3px 7px #fff,
+                3px 3px 5px #ceced1;
+    padding: 1%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+button, input{
+    outline: none;
+    border: none;
+}
+.buttons_container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.buttons{
+    width: 10%;
+    padding: 2% 10%;
+    border-radius: 10%;
+    background-color: transparent;
+    box-shadow: -3px -3px 6px #fff,
+                3px 3px 5px #ceced1;
+    font-size: 20px;
+    text-align: center;
+}
+button:hover{
+    box-shadow: inset -3px -3px 7px #fff,
+               inset 3px 3px 5px #ceced1;
+}
+.screen{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    line-height: 2.5;
+    background: transparent;
+    outline: none;
+    border: none;
+    box-shadow: -3px -3px 7px #fff,
+                3px 3px 5px #ceced1;
+    border-radius: 15px;
+    width: 94%;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    text-align: right;
+    padding: 2%;
+    font-size: 36px;
+}
+#operators {
+    background-color: #FADADD; 
+    box-shadow: -3px -3px 6px #ffebf1, 
+                3px 3px 5px #d8a7b0; 
+    border: none;
+    color: #84293b; 
+    font-weight: bold;
+}
+
+#operators:hover {
+    box-shadow: inset -3px -3px 7px #ffebf1, 
+                inset 3px 3px 5px #d8a7b0;
+}
+#equal, #modulus {
+    background-color: #ADD8E6; 
+    box-shadow: -3px -3px 6px #d0e8f2, 
+                3px 3px 5px #a0bccc; 
+    border: none;
+    color: #1a3d5f; 
+    font-weight: bold;
+}
+
+#equal:hover, #modulus:hover {
+    box-shadow: inset -3px -3px 7px #d0e8f2,
+                inset 3px 3px 5px #a0bccc;
+}
+#warning-button {
+    background-color: #FDE68A;
+    box-shadow: -3px -3px 6px #fef3c7,
+                3px 3px 5px #e2b03a; 
+    border: none;
+    color: #7A5500; 
+    font-weight: bold;
+}
+
+#warning-button:hover {
+    box-shadow: inset -3px -3px 7px #fef3c7, 
+                inset 3px 3px 5px #e2b03a;
+}
+
+@media (max-width:700px) {
+    .buttons{
+        font-size: 16px;
+        padding-right: 11%;
+    }
+}

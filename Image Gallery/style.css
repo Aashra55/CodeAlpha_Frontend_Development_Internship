@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", "sans-serif";
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 8%;
+    padding-top: 0;
+}
+.gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 100vw;
+    height: 80vh;
+    flex-wrap: wrap;
+}
+.gallery img{
+    width: 250px;
+    height: 250px;
+}
+.text{
+    width: 100%;
+    text-align: center;
+    line-height: normal;
+    padding-top: 2%;
+    font-size: 50px;
+    font-weight: 300;
+    margin: 0;
+}
+
