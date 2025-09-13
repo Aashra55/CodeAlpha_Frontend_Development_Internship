@@ -28,10 +28,8 @@ A personal portfolio website showcasing my skills and projects.
 ### Features: 
 Responsive design, smooth scrolling, and modern UI.
 
-# Live Demo:
+### Live Demo:
 https://code-alpha-frontend-development-int-chi.vercel.app/
-
-## 🛠️ Tech Stack
 
 ### Languages: 
 HTML, CSS, JavaScript
